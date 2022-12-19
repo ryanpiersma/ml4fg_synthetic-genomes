@@ -12,3 +12,5 @@ Code+data used for Machine Learning for Functional Genomics class project
 
 **`arabidopsis_10k_sampled.hapt`**
 - The data resulting from running `snp_sampler.py` that was input into the GANs
+
+All of this code was run on a Google Cloud VM instance with 1 NVIDIA T4 GPU
